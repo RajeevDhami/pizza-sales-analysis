@@ -33,6 +33,14 @@ SQL Server was used for data analysis, and Google Sheets was used to build an in
 ---
 
 ## 📂 Project Structure
+pizza-sales-analysis/
+├── 01_create_view.sql
+├── 02_kpi_analysis.sql
+├── 03_trend_analysis.sql
+├── 04_category_size_analysis.sql
+├── 05_product_analysis.sql
+├── Pizza Sales DashBoard.pdf
+└── README.md
 
 ---
 
@@ -53,3 +61,4 @@ The final dashboard is available as a PDF in the `dashboard/` folder.
 
 ## 👤 Author
 **Rajeev Dhami**
+
